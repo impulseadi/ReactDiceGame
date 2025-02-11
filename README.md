@@ -17,8 +17,10 @@ An interactive and engaging Dice Game built using **React.js, JavaScript, HTML, 
 
 ## 📸 Screenshots
 ![Game Screenshot]
-![Screenshot 2025-02-11 190813](https://github.com/user-attachments/assets/a4fd6ab6-de51-423a-8bc8-86299342ae81)
+![Screenshot 2025-02-11 190743](https://github.com/user-attachments/assets/0fd188a4-1f46-4b4f-942e-1f8a2d1b552d)
+
 ![Screenshot 2025-02-11 190800](https://github.com/user-attachments/assets/6c7c7fed-c97a-4a0c-9376-4a6eafaa6c71)
+
 ![Screenshot 2025-02-11 190813](https://github.com/user-attachments/assets/b67a9694-25a3-4aff-bf31-6021ab4befd0)
 
 
